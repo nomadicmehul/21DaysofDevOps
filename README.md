@@ -25,7 +25,7 @@ The #21DaysofDevOps initiative is a pre-beginner series designed to help individ
 
 Join us on this 21-day journey to explore the exciting world of DevOps and cultivate the skills necessary for success in modern software development and operations.
 
-#### Daily Task for 21 days
+#### Daily Task for 21 days 👨‍💻
 
 | No. of Day  | Topic Name | Task  | Resources |
 | ------------- | ------------- | ------------- | ------------- |
@@ -51,6 +51,10 @@ Join us on this 21-day journey to explore the exciting world of DevOps and culti
 | Day 20  | Documentation and Knowledge Sharing  | Document your infrastructure, processes, and best practices, and share your knowledge with the team.  | Content Cell  |
 | Day 21  | Recap and Reflection  | Reflect on your DevOps journey, identify areas for improvement, and celebrate your accomplishments.  | Content Cell  |
 
+#### Get ready to embrace an exciting challenge!🚀
 
+Join the #21DaysofDevOps journey and explore a world of possibilities. Share your progress and experiences using the #21daysofDevOps hashtags on social media. If you need any help or have questions, reach out to me via direct message on my social media handles @nomadicmehul or create an issue on our platform. 
+
+Let's dive into DevOps together and unlock new horizons!
 
 #DevOps #ContinuousIntegration #ContinuousDelivery #InfrastructureAsCode #Containerization #CloudComputing #Monitoring #Automation
