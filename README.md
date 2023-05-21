@@ -29,7 +29,7 @@ Join us on this 21-day journey to explore the exciting world of DevOps and culti
 
 | No. of Day  | Topic Name | Task  | Resources |
 | ------------- | ------------- | ------------- | ------------- |
-| Day 1  | Introduction to DevOps  | Read articles and watch videos to understand the fundamentals of DevOps.  | Content Cell  |
+| Day 1  | Introduction to DevOps  | Read articles and watch videos to understand the fundamentals of DevOps.  | * https://www.geeksforgeeks.org/introduction-to-devops/  |
 | Day 2  | Version Control  | Set up a Git repository, commit code changes, and explore Git features.  | Content Cell  |
 | Day 3  | Continuous Integration  | Configure a CI/CD pipeline using a tool of your choice (e.g., Jenkins, GitLab CI) and automate the build process.  | Content Cell  |
 | Day 4  | Infrastructure as Code  | Write infrastructure code using a tool like Terraform or CloudFormation to provision a sample environment.  | Content Cell  |
