@@ -6,6 +6,15 @@ Join us on this exciting journey of continuous improvement and transformation. T
 
 *Project Description :*
 
+## WHO SHOULD STUDY DEVOPS?
+
+DevOps is for anybody who wants to grasp how the concepts of DevOps can help an organization focus on value and streamline the delivery process. It is also for individuals who are keen to learn more about common infrastructure servers, scalability and availability.
+
+Learning DevOps would be ideal for software developers, technical project managers, architects, Operations support team members, deployment engineers, IT managers, development managers, etc
+
+
+By getting trained in DevOps one would be much better place to build a career as a DevOps engineer or a service engineer in the enterprise infrastructure arena.
+
 ## #21DaysofDevOps
 
 This repository contains resources and tasks for the #21DaysofDevOps challenge. The goal of this project is to help developers and IT professionals enhance their skills and knowledge in the field of DevOps through a structured 21-day learning journey.
