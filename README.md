@@ -65,5 +65,3 @@ Join us on this 21-day journey to explore the exciting world of DevOps and culti
 Join the #21DaysofDevOps journey and explore a world of possibilities. Share your progress and experiences using the #21daysofDevOps hashtags on social media. If you need any help or have questions, reach out to me via direct message on my social media handles @nomadicmehul or create an issue on our platform. 
 
 Let's dive into DevOps together and unlock new horizons!
-
-#DevOps #ContinuousIntegration #ContinuousDelivery #InfrastructureAsCode #Containerization #CloudComputing #Monitoring #Automation
